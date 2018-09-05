@@ -1,3 +1,3 @@
 # ML_Tensorflow
 
-Machine learning project done through tensorflow.
+Machine learning project using tensorflow.
